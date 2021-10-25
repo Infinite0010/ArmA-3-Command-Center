@@ -1,4 +1,4 @@
-# ArmA-3
+# ArmA-3 Command Center
 
 Here's a short explanation of the set-up, this took me a while to tinker with and extract I'll leave it to you guys to figure out and trouble shoot how to integrate it into your missions.
 
